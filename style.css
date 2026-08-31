@@ -1,0 +1,28 @@
+body {
+  margin: 40px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1 {
+  color: darkSlateBlue;
+  text-align: center;
+}
+
+h2 {
+  color: dimgrey;
+  text-align: center;
+}
+
+h3 {
+  color: darkSlateBlue;
+  border-bottom: 1px solid gray;
+}
+
+p {
+  font-size: 16px;
+}
+
+li {
+  margin-bottom: 5px;
+}
