@@ -8,8 +8,9 @@ body {
   
   h1 {
     text-align: center;
-    color: #00b0c8;
+    color: #fdee1b;
   }
+  
   #main-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
